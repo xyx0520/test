@@ -6,25 +6,10 @@
 <tr>
 <td valign="top">
 
-* [工具库](/util/index.html)
-    * [Guava](/util/guava/index.html)
-    * [Spring Utils](/util/spring-utils/index.html)
-    * [其它](/util/other/index.html)
-    * [各种模板](/gist/index.html)
-
-</td>
-
-<td valign="top">
-
 * [第一阶段](/part-1/index.html)
-    * [Java](/part-1/Java/index.html)
-    * [Java多线程](/part-1/Java-thread/index.html)
-    * [Java8](/part-1/Java8/index.html)
-    * [SQL](/part-1/MySQL/index.html)
-    * [JDBC和数据库连接池](/part-1/JDBC/index.html)
-    * [HTML和CSS](/part-1/html&css/index.html)
-    * [JavaScript](/part-1/js/index.html)
-    * [Servlet和AJAX](/part-1/Servlet_AJAX/index.html)
+    * [MySql](/part-1/Java/index.html)
+    * [Linux](/part-1/Java-thread/index.html)
+    * [系统测试理论基础](/part-1/Java8/index.html)
 
 </td>
 <td valign="top">
