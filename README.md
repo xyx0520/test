@@ -10,6 +10,7 @@
     * [MySql](/part-1/Java/index.html)
     * [Linux](/part-1/Java-thread/index.html)
     * [系统测试理论基础](/part-1/Java8/index.html)
+	* [系统测试项目](/part-1/test-demo/index.html)
 
 </td>
 <td valign="top">
