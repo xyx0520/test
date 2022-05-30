@@ -1,5 +1,5 @@
 ﻿* [第一阶段](/part-1/index.html)
-    * [MySQL](/part-1/Java/index.html)
+    * [MySQL](/part-1/MySql/index.html)
     * [Linux](/part-1/Java-thread/index.html)
     * [系统测试基础理论](/part-1/Java8/index.html)
 * [第二阶段](/part-2/index.html)
